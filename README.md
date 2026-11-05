@@ -16,7 +16,7 @@ Group assignment (GA2) for Artificial Intelligence. The repository has three pro
 | Kotapati Sai Mounika | B24CS019 |
 | Bailapudi Kusuma Teja | B24CS011 |
 | Lanka Devi Satwika | B24DS013 |
-| Borada Jayasurya | B24MT010 |
+| Boorada Jayasurya | B24MT010 |
 
 ## Repository structure
 
